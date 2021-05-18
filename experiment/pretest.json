@@ -1,0 +1,44 @@
+[{
+	"question": "The maximum aggregate crushing value permitted for bituminous macadam is",
+	"answers": {
+		"a": "30%",
+		"b": "40%",
+		"c": "60%",
+		"d": "10%"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "In how many layers aggregates are filled and compacted?",
+	"answers": {
+		"a": "2 layers",
+		"b": "3 layers",
+		"c": "4 layers",
+		"d": "5 layers"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "The aggregate is called high strength aggregate, if the aggregate crushing value is high. (Say True of False)",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Number of blows given for each layer is?",
+	"answers": {
+		"a": "66 number of blows",
+		"b": "25 number of blows",
+		"c": "70 number of blows",
+		"d": "35 number of blows"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "The aggregate crushing value of 10% indicates",
+	"answers": {
+		"a": "Exceptionally strong aggregates",
+		"b": "Moderate strength",
+		"c": "Weak aggregate",
+		"d": "None of the above"
+	},
+	"correctAnswer": "a"
+}]
