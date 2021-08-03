@@ -1,44 +1,48 @@
 [{
-	"question": "W<sub>1</sub> is Total weight of sample, W<sub>2</sub> is weight of sample passing 2.36mm sieve, W<sub>3</sub> is weight of sample retained on 2.36mm sieve, then aggregate crushing value is_____",
-	"answers": {
-		"a": "(W<sub>2</sub>/W<sub>1</sub>) * 100",
-		"b": "(W<sub>3</sub>/W<sub>1</sub>) * 100",
-		"c": "(W<sub>2</sub>/W<sub>3</sub>) * 100",
-		"d": "(W<sub>1</sub>/W<sub>3</sub>) * 100"
+		"question": "W<sub>1</sub> is Total weight of sample, W<sub>2</sub> is weight of sample passing 2.36mm sieve, W<sub>3</sub> is weight of sample retained on 2.36mm sieve, then aggregate crushing value is_____",
+		"answers": {
+			"a": "(W<sub>2</sub>/W<sub>1</sub>) * 100",
+			"b": "(W<sub>3</sub>/W<sub>1</sub>) * 100",
+			"c": "(W<sub>2</sub>/W<sub>3</sub>) * 100",
+			"d": "(W<sub>1</sub>/W<sub>3</sub>) * 100"
+		},
+		"correctAnswer": "a"
 	},
-	"correctAnswer": "a"
-}, {
-	"question": "Load applied by Compression Testing Machine in the test is?",
-	"answers": {
-		"a": "4 tonnes per min",
-		"b": "52 tonnes per min",
-		"c": "6 tonnes per min",
-		"d": "40 tonnes per min"
+	{
+		"question": "Load applied by Compression Testing Machine in the test is?",
+		"answers": {
+			"a": "4 tonnes per min",
+			"b": "52 tonnes per min",
+			"c": "6 tonnes per min",
+			"d": "40 tonnes per min"
+		},
+		"correctAnswer": "a"
 	},
-	"correctAnswer": "a"
-}, {
-	"question": "In crushing test, the aggregate used is passing through ____mm sieve and retained on ____mm.",
-	"answers": {
-		"a": "20mm, 16mm",
-		"b": "16mm, 12.5mm",
-		"c": "12.5mm, 10mm",
-		"d": "10mm, 4.75mm"
+	{
+		"question": "In crushing test, the aggregate used is passing through ____mm sieve and retained on ____mm.",
+		"answers": {
+			"a": "20mm, 16mm",
+			"b": "16mm, 12.5mm",
+			"c": "12.5mm, 10mm",
+			"d": "10mm, 4.75mm"
+		},
+		"correctAnswer": "c"
 	},
-	"correctAnswer": "c"
-}, {
-	"question": "The aggregate with crushing value below 30 % is suitable for withstanding heavy load?",
-	"answers": {
-		"a": "True",
-		"b": "False"
+	{
+		"question": "The aggregate with crushing value below 30 % is suitable for withstanding heavy load?",
+		"answers": {
+			"a": "True",
+			"b": "False"
+		},
+		"correctAnswer": "a"
 	},
-	"correctAnswer": "a"
-}, {
-	"question": "Aggregate crushing value provides the relative measure of resistance to",
-	"answers": {
-		"a": "Crushing under gradual increasing load",
-		"b": "Crushing under sudden loads",
-		"c": "Crushing under dynamic loads",
-		"d": "None of the above"
-	},
-	"correctAnswer": "a"
+	{
+		"question": "Aggregate crushing value provides the relative measure of resistance to",
+		"answers": {
+			"a": "Crushing under gradual increasing load",
+			"b": "Crushing under sudden loads",
+			"c": "Crushing under dynamic loads",
+			"d": "None of the above"
+		},
+		"correctAnswer": "a"
 }]
